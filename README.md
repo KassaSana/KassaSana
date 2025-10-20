@@ -2,7 +2,7 @@
 
 I’m a Software Engineer and **M.S. Computer Engineering student at the University of Florida** (Graduating Dec 2026) passionate about **fullstack development, backend development, and distributed computing**.  
 
-I’m currently open to **Summer 2026 Software Engineering Internships**.
+I’m currently open to ** Summer/Winter 2026 Software Engineering Internships**.
 
 ---
 
