@@ -17,7 +17,7 @@ I’m currently open to ** Summer/Winter 2026 Software Engineering Internships**
 **Software Engineer Intern @ Amazon**  
 *Promotions Platform Team | Jun 2024 – Aug 2024 | Java · Spring Boot · AWS Lambda · DynamoDB*  
 - Designing the **Event Value API**, a schema-driven framework for modeling business events and value-mapping logic for internal marketing services.  
-- Collaborated with senior engineers to define design. Authored design documentation and presented trade-offs between different approaches. 
+- Collaborated with engineers to define design. Authored design documentation and presented trade-offs between different approaches. 
 
 ---
 
