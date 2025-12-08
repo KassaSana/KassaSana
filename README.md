@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Kassahun Sanayew
 
-I’m a prev Software Engineer Intern @Amazon and **M.S. Computer Engineering student at the University of Florida** (Graduating Dec 2026) passionate about **fullstack development, backend development, and distributed computing**.  
+I’m a prev Software Engineer Intern @Amazon and **M.S. Computer Engineering student at the University of Florida**  passionate about **fullstack development, backend development, and distributed computing**.  
 
 I’m currently open to ** Summer/Winter 2026 Software Engineering Internships**.
 
