@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Kassahun Sanayew
 
-I’m a prev Software Engineer Intern @Amazon and **M.S. Computer Engineering student at the University of Florida**  passionate about **fullstack development, backend development, and distributed computing**.  
+I’m a prev Software Engineer Intern @Amazon , student at the University of Florida**  passionate about fullstack, systems engineering, and distributed systems**.  
 
 I’m currently open to ** Summer/Winter 2026 Software Engineering Internships**.
 
@@ -16,7 +16,7 @@ I’m currently open to ** Summer/Winter 2026 Software Engineering Internships**
 ### 💻 Experience
 **Software Engineer Intern @ Amazon**  
 *Promotions Platform Team | Jun 2024 – Aug 2024 | Java · Spring Boot · AWS Lambda · DynamoDB*  
-- Designing the **Event Value API**, a schema-driven framework for modeling business events and value-mapping logic for internal marketing services.  
+- Designing APIs a schema-driven framework for modeling business events and value-mapping logic for internal marketing services.  
 - Collaborated with engineers to define design. Authored design documentation and presented trade-offs between different approaches. 
 
 ---
