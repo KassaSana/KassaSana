@@ -1,31 +1,38 @@
-Currently building low-latency decision engines and system-level productivity tools.
+Currently building **low-latency decision systems**, **system-level productivity tools**, and **statistical experiment harnesses**.
 
 ---
 
-### Projects
+## Projects
 
-#### ⚡ **[CivicQ: Public-Sector Queue Optimizer](https://github.com/KassaSana/CivicQ)**
-*C++ (STL) · Python · Monte Carlo Simulation · Matplotlib*
+### ⚡ [CivicQ: Queue Staffing Optimizer](https://github.com/KassaSana/CivicQ)
+*C++17 (STL) · Python · Discrete-Event Simulation · NHPP · Monte Carlo · Matplotlib*
 
-A decision-support engine that optimizes government staffing levels to minimize citizen wait times under stochastic demand.
-- **Performance:** Engineered a **C++ Discrete-Event Simulation (DES)** core processing **1.2M events/sec** with $<1\mu s$ latency using a custom min-heap.
-- **Impact:** Reduced P90 tail-risk wait times by **72%** (20.3m $\to$ 5.5m) via a Python-based staffing optimization loop.
-- **Math:** Implemented **Non-Homogeneous Poisson Process (NHPP)** modeling and Monte Carlo error analysis (95% CI).
+Decision-support engine that recommends staffing levels to reduce citizen wait times under stochastic demand.
 
-#### 🧠 **[FocoFlow: Neuro-Adaptive Process Manager](https://github.com/KassaSana/FocoFlow)**
-*C++ · System Internals · Heuristic Analysis*
+- Built a **C++ discrete-event simulator** (min-heap event calendar + FIFO queue) modeling **NHPP time-varying arrivals** and **exponential service**, with seeded RNG for deterministic replay.
+- Ran **Monte Carlo scenario analysis** in Python and reported **95% confidence intervals** for **mean wait** and **P90 wait** (P90 computed per replication, then CI aggregated across replications).
+- Benchmarked performance: **100 full-day replications in 23.6–28.4 ms** over 5 runs (**~0.24 ms/replication**) on local hardware.
 
-A low-latency system guard that learns user context to preemptively block high-dopamine applications.
-- **System Design:** Implemented real-time **process interception** to detect and terminate distracting applications with minimal CPU overhead.
--  Designed a "Context Switch"  that identifies rapid task-switching behavior to trigger enforcement automatically.
--  negligible memory footprint, ensuring it runs silently alongside resource-intensive workflows.
+---
 
-#### 🛡️ **[Foco: Desktop Productivity Automation](https://github.com/KassaSana/Foco)**
-*Python · Win32 API · Data Persistence*
+### 🧠 [FocoFlow: Neuro-Adaptive Process Manager](https://github.com/KassaSana/FocoFlow)
+*C++ · Systems · TypeScript/React · Java/Spring Boot · Heuristics · IPC*
 
-A "Willpower-as-a-Service" desktop tool that differentiates "Deep Work" from casual browsing using active window heuristics.
-- **Win32 Integration:** Leveraged low-level **Windows APIs** to monitor active window handles and enforce strict blocking rules.
-- **Analytics Engine:** Architected a local tracking system that serializes session data for trend analysis on productive vs. non-productive runtime.
+Low-latency system guard that learns user context and enforces focus rules by blocking high-distraction apps.
+
+- Implemented real-time **process monitoring + enforcement** to detect and terminate distracting applications with minimal overhead.
+- Designed a **context-switch detector** that flags rapid task switching and triggers enforcement automatically.
+- Built for quiet operation: low CPU usage, small memory footprint, and resilient behavior under load.
+
+---
+
+### 🛡️ [Foco: Desktop Productivity Automation](https://github.com/KassaSana/Foco)
+*Python · Win32 API · Local Persistence · Analytics*
+
+“Willpower-as-a-service” desktop tool that distinguishes deep work from casual browsing using active-window heuristics.
+
+- Leveraged low-level **Win32 APIs** to track active window handles and enforce blocking rules.
+- Built a local analytics pipeline that persists session data for trend analysis (productive vs. non-productive time).
 
 ---
 
@@ -37,22 +44,21 @@ A "Willpower-as-a-Service" desktop tool that differentiates "Deep Work" from cas
 
 ---
 
-###  What I'm Currently Doing
+## What I’m focused on right now
 
-- **Going Lower:** Moving to **C/C++** systems work.
-- **Thinking Statistically:** Using **probability** to model uncertainty in software.
-- **Scaling Up:** Understanding the design patterns behind **large distributed systems**.
-
-
----
-
-### 📚 MS Coursework
-- **Advanced Data Structures:** Min-Heaps, B-Trees, Graph Algorithms
-- **Distributed Operating Systems:** Consensus, Concurrency, Fault Tolerance
-- **Algorithms:** Dynamic Programming, Network Flow, NP-Completeness
+- **Going lower-level:** deeper **C/C++ systems** work and performance tuning  
+- **Thinking statistically:** using **probability** to model uncertainty and validate outcomes  
+- **Scaling up:** learning patterns behind **reliable distributed systems**
 
 ---
 
-### 📫 Connect
+## Coursework
+- **Advanced Data Structures:** Heaps, B-Trees, Graph Algorithms  
+- **Distributed Operating Systems:** Consensus, Concurrency, Fault Tolerance  
+- **Algorithms:** Dynamic Programming, Network Flow, NP-Completeness  
+
+---
+
+## Connect
 [LinkedIn](https://linkedin.com/in/kassahun-sanayew-a39164223) · [Email](mailto:k.sanayew@ufl.edu)
 
