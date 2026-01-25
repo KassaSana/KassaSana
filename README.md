@@ -11,7 +11,6 @@ Decision-support engine that recommends staffing levels to reduce citizen wait t
 
 - Built a **C++ discrete-event simulator** (min-heap event calendar + FIFO queue) modeling **NHPP time-varying arrivals** and **exponential service**, with seeded RNG for deterministic replay.
 - Ran **Monte Carlo scenario analysis** in Python and reported **95% confidence intervals** for **mean wait** and **P90 wait** (P90 computed per replication, then CI aggregated across replications).
-- Benchmarked performance: **100 full-day replications in 23.6–28.4 ms** over 5 runs (**~0.24 ms/replication**) on local hardware.
 
 ---
 
