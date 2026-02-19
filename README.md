@@ -4,15 +4,6 @@ Currently building **low-latency decision systems**, **system-level productivity
 
 ## Projects
 
-### ⚡ [CivicQ: Queue Staffing Optimizer](https://github.com/KassaSana/CivicQ)
-*C++17 (STL) · Python · Discrete-Event Simulation · NHPP · Monte Carlo · Matplotlib*
-
-Decision-support engine that recommends staffing levels to reduce citizen wait times under stochastic demand.
-
-- Built a **C++ discrete-event simulator** (min-heap event calendar + FIFO queue) modeling **NHPP time-varying arrivals** and **exponential service**, with seeded RNG for deterministic replay.
-- Ran **Monte Carlo scenario analysis** in Python and reported **95% confidence intervals** for **mean wait** and **P90 wait** (P90 computed per replication, then CI aggregated across replications).
-
----
 
 ### 🧠 [FocoFlow: Neuro-Adaptive Process Manager](https://github.com/KassaSana/FocoFlow)
 *C++ · Systems · TypeScript/React · Java/Spring Boot · Heuristics · IPC*
