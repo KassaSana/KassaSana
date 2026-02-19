@@ -37,7 +37,6 @@ Low-latency system guard that learns user context and enforces focus rules by bl
 ## What I’m focused on right now
 
 - **Going lower-level:** deeper **C/C++ systems** work and performance tuning  
-- **Thinking statistically:** using **probability** to model uncertainty and validate outcomes  
 - **Scaling up:** learning patterns behind **reliable distributed systems**
 
 ---
