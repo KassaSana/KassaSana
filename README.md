@@ -1,4 +1,3 @@
-Currently building **low-latency decision systems**, **system-level productivity tools**, and **statistical experiment harnesses**.
 
 ---
 
@@ -34,19 +33,6 @@ Low-latency system guard that learns user context and enforces focus rules by bl
 
 ---
 
-## What I’m focused on right now
-
-- **Going lower-level:** deeper **C/C++ systems** work and performance tuning  
-- **Scaling up:** learning patterns behind **reliable distributed systems**
-
----
-
-## Coursework
-- **Advanced Data Structures:** Heaps, B-Trees, Graph Algorithms  
-- **Distributed Operating Systems:** Consensus, Concurrency, Fault Tolerance  
-- **Algorithms:** Dynamic Programming, Network Flow, NP-Completeness  
-
----
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/kassahun-sanayew-a39164223) · [Email](mailto:k.sanayew@ufl.edu)
