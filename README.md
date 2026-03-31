@@ -25,13 +25,6 @@ Low-latency system guard that learns user context and enforces focus rules by bl
 
 ---
 
-### 💻 Experience
-
-**Software Engineer Intern @ Amazon** *Promotions Platform Team | Seattle, WA* - 
-- **Collaboration:** Authored design documentation and presented trade-offs between to other senior and mid level engineers
-- **Architecture:** Designed a schema-driven framework for modeling business events * for high availability.
-
----
 
 
 ## Connect
