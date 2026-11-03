@@ -7,7 +7,6 @@ I mostly work in C++ and Python on storage, systems, and data tooling.
 
 - **[durablekv](https://github.com/KassaSana/durablekv)**: crash-safe LSM-tree key-value store in C++20 (WAL, SSTables, leveled compaction, Bloom filters)
 - **[ArbSync](https://github.com/KassaSana/ArbSync)**: real-time order books across Gemini, Coinbase, and Binance with cross-exchange arbitrage detection
-- **[Snapback](https://github.com/KassaSana/Snapback)**: desktop focus tracker with C++ activity capture, an ONNX classifier, and a React dashboard ([demo](https://kassasana.github.io/Snapback/))
 - **[CivicQ](https://github.com/KassaSana/CivicQ)**: discrete-event queue simulator in C++ with a Python analysis pipeline
 - **[AgentsOpsLab](https://github.com/KassaSana/AgentsOpsLab)**: durable execution, policy gating, and evaluation for tool-using AI agents
 
