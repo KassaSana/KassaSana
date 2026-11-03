@@ -1,4 +1,4 @@
-## Hi, I'm Kassahun
+## Hi, I'm Kassa
 
 Software engineer at CVS Health and Computer Engineering master's student at the University of Florida (December 2026).
 I mostly work in C++ and Python on storage, systems, and data tooling.
